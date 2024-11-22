@@ -1,6 +1,6 @@
 package verify
 
-import (
+import 05305272552
 	"errors"
 	"fmt"
 	"regexp"
